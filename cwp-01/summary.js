@@ -1,0 +1,12 @@
+console.log("D:/Node JS\cwp-gh-pages\tasks/00.html");
+console.log("D:/Node JS/cwp-gh-pages\tasks/01.html");
+console.log("D:/Node JS/cwp-gh-pages/tasks/02.html");
+console.log("D:/Node JS/cwp-gh-pages/tasks/03.html");
+console.log("D:/Node JS/cwp-gh-pages/tasks/04.html");
+console.log("D:/Node JS/cwp-gh-pages/tasks/05.html");
+console.log("D:/Node JS/cwp-gh-pages/tasks/assets/darcula.css");
+console.log("D:/Node JS/cwp-gh-pages/tasks/assets/fonts.css");
+console.log("D:/Node JS/cwp-gh-pages/tasks/assets/highlight.pack.js");
+console.log("D:/Node JS/cwp-gh-pages/tasks/assets/jquery-3.2.1.min.js");
+console.log("D:/Node JS/cwp-gh-pages/tasks/assets/script.js");
+console.log("D:/Node JS/cwp-gh-pages/tasks/assets/style.css");
